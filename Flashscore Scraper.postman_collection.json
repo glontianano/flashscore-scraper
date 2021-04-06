@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "7d2ceeb0-0bac-4d7e-a6c6-fff4c06a6c38",
+		"name": "Flashscore Scraper",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "flashScore-scraper",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/scraper/world-cup-scores",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"scraper",
+						"world-cup-scores"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
