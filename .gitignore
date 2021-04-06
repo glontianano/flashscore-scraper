@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+/.config
+/.pnp
+.pnp.js
+
+
+.idea/*
+/.npm/*
+/log/*
+
+.env
