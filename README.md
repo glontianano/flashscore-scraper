@@ -5,4 +5,4 @@ Installation guide:
  - `npm install`
  - `cp .env.dist .env`
  - `npm start`
- - use [Postman ollection](https://github.com/glontianano/flashscore-scraper/blob/master/Flashscore%20Scraper.postman_collection.json) for testing purpose.
+ - use [Postman Collection](https://github.com/glontianano/flashscore-scraper/blob/master/Flashscore%20Scraper.postman_collection.json) for testing purpose.
